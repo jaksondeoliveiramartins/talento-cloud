@@ -1,1 +1,1 @@
-# Ordem seguencial dos andares  ignorando o andar 13.
+#Ordem seguencial dos andares  ignorando o andar 13.
